@@ -25,7 +25,7 @@ display.display(display.Audio(data=sound_data, rate=samplerate))
 
 1. Using this documentation: https://docs.scipy.org/doc/scipy/tutorial/fft.html find out how to convert the sound file into the frequency domain, implement this on your data. Plot it in the frequency domain.
 
-1. What can you learn from this plot? Analyze it.
+1. What can you learn from this plot? Analyze it. (in the code)
 
 1. Repeat the exercise with a different sound, compare the two different frequency domain plots.
 
